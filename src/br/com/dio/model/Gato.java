@@ -64,5 +64,4 @@ public class Gato {
 	public String toString() {
 		return "Gato [nome=" + nome + ", cor=" + cor + ", idade=" + idade + "]";
 	}
-
 }
